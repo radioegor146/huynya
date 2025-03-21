@@ -1,0 +1,15 @@
+{
+  "name": "huynya",
+  "version": "1.0.0",
+  "description": "yadnex-team.ru",
+  "main": "index.js",
+  "repository": "https://github.com/radioegor146/huynya",
+  "author": "radioegor146",
+  "license": "MIT",
+  "scripts": {
+    "dev": "serve src/"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
